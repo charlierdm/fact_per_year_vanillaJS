@@ -12,7 +12,7 @@ To create a single page webapp that displays a fact for the year entered. Writte
 
 ## Example
 
-![May-05-2021 17-01-15](https://user-images.githubusercontent.com/75075773/117172278-8f56f200-adc3-11eb-9830-a4c2baa03bef.gif)
+![May-05-2021 17-14-11](https://user-images.githubusercontent.com/75075773/117174210-646d9d80-adc5-11eb-9701-46dcc8fa7617.gif)
 
 ## Installation
 
