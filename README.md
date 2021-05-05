@@ -13,3 +13,17 @@ To create a single page webapp that displays a fact for the year entered. Writte
 ## Example
 
 ![May-05-2021 17-01-15](https://user-images.githubusercontent.com/75075773/117172278-8f56f200-adc3-11eb-9830-a4c2baa03bef.gif)
+
+## Installation
+
+```
+Fork and clone this repo
+```
+
+In your command line, run the following:
+
+```
+$ open index.html
+```
+
+Your browser will open, enter a number to see a fact!
